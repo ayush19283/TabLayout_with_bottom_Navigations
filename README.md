@@ -1,9 +1,8 @@
 # TabLayout_with_bottom_Navigations
 
 
-## App design
-![](https://github.com/ayush19283/TabLayout_with_bottom_Navigations/blob/main/app/WhatsApp%20Image%202023-07-12%20at%2012.22.42.jpeg)
-
+## home activity (3 modes)
+<img src="https://github.com/ayush19283/TabLayout_with_bottom_Navigations/blob/main/app/WhatsApp%20Image%202023-07-12%20at%2012.22.42.jpeg" width="300" height="500">
 
 ## The flow of the app is as follows
 1. In ActivityMain file create Bottom Nav tags and in MainActivity java file Define the No of Fragments you want to create.
@@ -15,5 +14,5 @@
 will be shown in fragments
 
 ## Essence of this design 
-    This layout is used when you want to display the large amount of data in a very ordered way. Also you may redraft the design of Tablayout and Bottom Navigations as per your choice
+    This layout is used when you want to display the large amount of data in a very ordered way. Also you may redraft the design of Tablayout and Bottom Navigations as per your choice.
     

@@ -1,7 +1,7 @@
 # TabLayout_with_bottom_Navigations
 
 
-## home activity (3 modes)
+## App desing
 ![](https://github.com/ayush19283/TabLayout_with_bottom_Navigations/blob/main/app/WhatsApp%20Image%202023-07-12%20at%2012.22.42.jpeg)
 
 

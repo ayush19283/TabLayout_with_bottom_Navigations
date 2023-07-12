@@ -1,4 +1,4 @@
-# TabLayout_with_bottom_Navigations
+# TabLayout_with_BottomNavigations
 
 
 ## home activity (3 modes)

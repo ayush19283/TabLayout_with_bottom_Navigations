@@ -2,7 +2,8 @@
 
 
 ## home activity (3 modes)
-<img src="https://github.com/ayush19283/TabLayout_with_bottom_Navigations/blob/main/app/WhatsApp%20Image%202023-07-12%20at%2012.22.42.jpeg" width="300" height="500">
+![](https://github.com/ayush19283/TabLayout_with_bottom_Navigations/blob/main/app/WhatsApp%20Image%202023-07-12%20at%2012.22.42.jpeg)
+
 
 ## The flow of the app is as follows
 1. In ActivityMain file create Bottom Nav tags and in MainActivity java file Define the No of Fragments you want to create.

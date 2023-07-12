@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home1"
+        android:icon="@drawable/home_1_svgrepo_com"
+        android:title="Home" />   <!-- Name your titles here-->
+
+    <item
+        android:id="@+id/navigation_home2"
+        android:icon="@drawable/dashboard_svgrepo_com"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/navigation_home3"
+        android:icon="@drawable/notification_svgrepo_com"
+        android:title="Notification" />
+
+</menu>
